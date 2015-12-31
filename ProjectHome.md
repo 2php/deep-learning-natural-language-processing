@@ -1,0 +1,1 @@
+Has stuff on getting started and proceeding further towards mastery on DL techniques and their specific applications to NLP
